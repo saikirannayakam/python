@@ -1,6 +1,13 @@
 hello world
-hello saikiran
+
 print("hello world")
 n=10
 a=100
 print(a+n)
+a=1
+b=10
+c=100
+if(a>b)
+    print("a gtr thn b")
+else
+    print("b grt thn a")
